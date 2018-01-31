@@ -51,4 +51,5 @@ defaults:
     values:
       layout: "default"
 
+# Plugins
 gems: [jekyll-paginate]
