@@ -52,4 +52,4 @@ defaults:
       layout: "default"
 
 # Plugins
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
