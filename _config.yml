@@ -12,7 +12,7 @@ locale:              zh-cn # eg. en_us
 name:				         'WILL CHANG'
 title:               'will's blog'
 tagline:             'Product Designer'
-description:         'description'
+description:         'Product Designer'
 url:                 'http://willchange.cn'
 rss:                 rss feed url
 baseurl:             '/'
