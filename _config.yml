@@ -8,11 +8,11 @@ permalink:           /:title
 
 # Setup
 timezone:            Asia/Shanghai # eg. Asia/Kathmandu
-locale:              zh-cn # eg. en_us
+locale:              en_us # eg. en_us
 name:				         WILL CHANGE
 title:               will's blog
-tagline:             Product Designer
-description:         Product Designer
+tagline:             'Product Designer'
+description:         'I'm a Product Designer'
 url:                 http://willchange.cn
 rss:                 rss feed url
 baseurl:             '/'
