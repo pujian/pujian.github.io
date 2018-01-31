@@ -50,38 +50,5 @@
 				<guid isPermaLink="true">http://localhost:9001/color-films</guid>
 			</item>
 		
-			<item>
-				<title>Comics</title>
-				
-				
-					<description>Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ...</description>
-				
-				<pubDate>Mon, 13 Jan 1930 09:00:00 +0800</pubDate>
-				<link>http://localhost:9001/comics</link>
-				<guid isPermaLink="true">http://localhost:9001/comics</guid>
-			</item>
-		
-			<item>
-				<title>Black and white films</title>
-				
-				
-					<description>In Mickey's early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse...</description>
-				
-				<pubDate>Thu, 28 Mar 1929 09:00:00 +0800</pubDate>
-				<link>http://localhost:9001/black-and-white-films</link>
-				<guid isPermaLink="true">http://localhost:9001/black-and-white-films</guid>
-			</item>
-		
-			<item>
-				<title>Mickey Mouse's Debut</title>
-				
-				
-					<description>Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal...</description>
-				
-				<pubDate>Sun, 18 Nov 1928 09:00:00 +0800</pubDate>
-				<link>http://localhost:9001/debut</link>
-				<guid isPermaLink="true">http://localhost:9001/debut</guid>
-			</item>
-		
 	</channel>
 </rss>
