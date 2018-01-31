@@ -9,11 +9,11 @@ permalink:           /:title
 # Setup
 timezone:            Asia/Shanghai # eg. Asia/Kathmandu
 locale:              zh-cn # eg. en_us
-name:				         WILLCHANGE
-title:               will's blog
+name:				         'WILL CHANG'
+title:               'will's blog'
 tagline:             'Product Designer'
 description:         'description'
-url:                 www.willchange.cn
+url:                 'http://willchange.cn'
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
@@ -24,13 +24,13 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 xiaowei chang
-  url:            	 willchange.cn
+  name:           	 'xiaowei chang'
+  url:            	 'http://willchange.cn'
   facebook:          username
   twitter:           username
   google_plus:       username
   linkedin:          username
-  dribbble:          pujian
+  dribbble:          'pujian'
   pinterest:         username
   kiva:              username
 
